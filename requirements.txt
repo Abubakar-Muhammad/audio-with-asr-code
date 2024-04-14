@@ -1,0 +1,4 @@
+google-cloud-speech==2.26.0
+PyAudio==0.2.14
+pydub==0.25.1
+pynput==1.7.6
